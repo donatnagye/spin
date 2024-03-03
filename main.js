@@ -85,7 +85,7 @@ function start() {
   }
 
   function closeOverlay() {
-  window.location.href = 'https://donatnagye.github.io/lmgtfy2/#VG9wIG1lc3QgS3VuZ3VyYSwgY2h0b2JpIGl6aW5pdHNhIHBlcmVkIGRydWdvbT8=';
+  window.location.href = 'https://donatnagye.github.io/lmgtfy2/#VG9wIG1lc3QgS3VuZ3VyYSwgY2h0b2JpIGl6dmluaXRzYSBwZXJlZCBkcnVnb20=';
 }
 
 
